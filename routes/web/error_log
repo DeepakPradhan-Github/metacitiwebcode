@@ -1,0 +1,192 @@
+[04-Dec-2022 20:46:17 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/admin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/admin.php on line 27
+[04-Dec-2022 20:46:17 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/admin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/admin.php on line 27
+[04-Dec-2022 20:46:17 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/admin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/admin.php on line 27
+[04-Dec-2022 20:46:18 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/admin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/admin.php on line 27
+[04-Dec-2022 20:46:18 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/admin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/admin.php on line 27
+[04-Dec-2022 20:46:19 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/admin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/admin.php on line 27
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/admin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/admin.php on line 27
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/admin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/admin.php on line 27
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/admin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/admin.php on line 27
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/common.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/common.php on line 16
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/common.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/common.php on line 16
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/admin.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/admin.php on line 27
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/common.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/common.php on line 16
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/common.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/common.php on line 16
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/common.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/common.php on line 16
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 20:46:24 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 20:46:25 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/common.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/common.php on line 16
+[04-Dec-2022 20:46:25 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/common.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/common.php on line 16
+[04-Dec-2022 20:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/dispatch.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/dispatch.php on line 5
+[04-Dec-2022 20:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/dispatch.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/dispatch.php on line 5
+[04-Dec-2022 20:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/dispatch.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/dispatch.php on line 5
+[04-Dec-2022 20:47:43 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/user.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/user.php on line 16
+[04-Dec-2022 20:47:43 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/user.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/user.php on line 16
+[04-Dec-2022 20:47:43 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/user.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/user.php on line 16
+[04-Dec-2022 20:47:43 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/test.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/test.php on line 16
+[04-Dec-2022 20:47:44 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/test.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/test.php on line 16
+[04-Dec-2022 20:47:44 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/test.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/test.php on line 16
+[04-Dec-2022 20:47:45 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/test.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/test.php on line 16
+[04-Dec-2022 20:47:45 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/test.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/test.php on line 16
+[04-Dec-2022 20:47:45 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/test.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/test.php on line 16
+[04-Dec-2022 20:47:46 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/test.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/test.php on line 16
+[04-Dec-2022 20:47:48 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/user.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/user.php on line 16
+[04-Dec-2022 21:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 21:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 21:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 21:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 21:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 21:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 21:37:49 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 21:37:51 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
+[04-Dec-2022 21:38:35 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/routes/web/auth.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/routes/web/auth.php on line 23
