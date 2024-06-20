@@ -1,0 +1,108 @@
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/nextecki/public_html/metaciti/app/Http/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/console.php on line 16
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/nextecki/public_html/metaciti/app/Http/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/console.php on line 16
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/nextecki/public_html/metaciti/app/Http/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/console.php on line 16
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/nextecki/public_html/metaciti/app/Http/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/console.php on line 16
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/nextecki/public_html/metaciti/app/Http/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/console.php on line 16
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/nextecki/public_html/metaciti/app/Http/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/console.php on line 16
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/nextecki/public_html/metaciti/app/Http/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/console.php on line 16
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/nextecki/public_html/metaciti/app/Http/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/console.php on line 16
+[04-Dec-2022 20:46:29 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/app/Http/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/api.php on line 16
+[04-Dec-2022 20:46:29 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/app/Http/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/api.php on line 16
+[04-Dec-2022 20:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/app/Http/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/api.php on line 16
+[04-Dec-2022 20:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Route" not found in /home/nextecki/public_html/metaciti/app/Http/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/api.php on line 16
+[04-Dec-2022 20:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/nextecki/public_html/metaciti/app/Http/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/channels.php on line 14
+[04-Dec-2022 20:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/nextecki/public_html/metaciti/app/Http/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/channels.php on line 14
+[04-Dec-2022 20:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/nextecki/public_html/metaciti/app/Http/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/channels.php on line 14
+[04-Dec-2022 20:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/nextecki/public_html/metaciti/app/Http/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/channels.php on line 14
+[04-Dec-2022 20:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/nextecki/public_html/metaciti/app/Http/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/channels.php on line 14
+[04-Dec-2022 20:46:32 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/nextecki/public_html/metaciti/app/Http/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/channels.php on line 14
+[04-Dec-2022 20:46:32 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/nextecki/public_html/metaciti/app/Http/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/channels.php on line 14
+[04-Dec-2022 21:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/nextecki/public_html/metaciti/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/Kernel.php on line 7
+[04-Dec-2022 21:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/nextecki/public_html/metaciti/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/Kernel.php on line 7
+[04-Dec-2022 21:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/nextecki/public_html/metaciti/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/Kernel.php on line 7
+[04-Dec-2022 21:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/nextecki/public_html/metaciti/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/Kernel.php on line 7
+[04-Dec-2022 21:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/nextecki/public_html/metaciti/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/Kernel.php on line 7
+[04-Dec-2022 21:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/nextecki/public_html/metaciti/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/Kernel.php on line 7
+[04-Dec-2022 21:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/nextecki/public_html/metaciti/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/Kernel.php on line 7
+[04-Dec-2022 21:37:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/nextecki/public_html/metaciti/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Http/Kernel.php on line 7

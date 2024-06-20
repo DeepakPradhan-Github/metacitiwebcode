@@ -1,0 +1,7 @@
+[04-Dec-2022 20:46:20 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/nextecki/public_html/metaciti/app/Events/TestEvent.php on line 13
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/nextecki/public_html/metaciti/app/Events/TestEvent.php on line 13
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/nextecki/public_html/metaciti/app/Events/TestEvent.php on line 13
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/nextecki/public_html/metaciti/app/Events/TestEvent.php on line 13
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/nextecki/public_html/metaciti/app/Events/TestEvent.php on line 13
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/nextecki/public_html/metaciti/app/Events/TestEvent.php on line 13
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/nextecki/public_html/metaciti/app/Events/TestEvent.php on line 13

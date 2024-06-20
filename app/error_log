@@ -1,0 +1,152 @@
+[04-Dec-2022 19:55:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountActivated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountActivated.php on line 14
+[04-Dec-2022 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountActivated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountActivated.php on line 14
+[04-Dec-2022 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountActivated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountActivated.php on line 14
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountActivated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountActivated.php on line 14
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/OwnerNeededDocument.php on line 7
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Adhoc.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Adhoc.php on line 7
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Adhoc.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Adhoc.php on line 7
+[04-Dec-2022 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Adhoc.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Adhoc.php on line 7
+[04-Dec-2022 19:55:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountActivated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountActivated.php on line 14
+[04-Dec-2022 19:55:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountActivated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountActivated.php on line 14
+[04-Dec-2022 19:55:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountActivated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountActivated.php on line 14
+[04-Dec-2022 19:55:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Adhoc.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Adhoc.php on line 7
+[04-Dec-2022 19:55:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Adhoc.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Adhoc.php on line 7
+[04-Dec-2022 19:55:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/nextecki/public_html/metaciti/app/AccountApproved.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/AccountApproved.php on line 8
+[04-Dec-2022 19:55:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Adhoc.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Adhoc.php on line 7
+[04-Dec-2022 19:55:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Adhoc.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Adhoc.php on line 7

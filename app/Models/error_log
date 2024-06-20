@@ -1,0 +1,236 @@
+[04-Dec-2022 20:46:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Setting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Setting.php on line 8
+[04-Dec-2022 20:46:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Setting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Setting.php on line 8
+[04-Dec-2022 20:46:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Setting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Setting.php on line 8
+[04-Dec-2022 20:46:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Setting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Setting.php on line 8
+[04-Dec-2022 20:46:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Setting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Setting.php on line 8
+[04-Dec-2022 20:46:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Setting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Setting.php on line 8
+[04-Dec-2022 20:46:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Setting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Setting.php on line 8
+[04-Dec-2022 20:46:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Setting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Setting.php on line 8
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/City.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/City.php on line 10
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/City.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/City.php on line 10
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/City.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/City.php on line 10
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/City.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/City.php on line 10
+[04-Dec-2022 20:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php on line 8
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/City.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/City.php on line 10
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/City.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/City.php on line 10
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php on line 8
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/City.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/City.php on line 10
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php on line 8
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/City.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/City.php on line 10
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/nextecki/public_html/metaciti/app/Models/User.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/User.php on line 36
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php on line 8
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/nextecki/public_html/metaciti/app/Models/User.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/User.php on line 36
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Country.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Country.php on line 10
+[04-Dec-2022 20:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Country.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Country.php on line 10
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/nextecki/public_html/metaciti/app/Models/User.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/User.php on line 36
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php on line 8
+[04-Dec-2022 20:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/nextecki/public_html/metaciti/app/Models/User.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/User.php on line 36
+[04-Dec-2022 20:46:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/nextecki/public_html/metaciti/app/Models/User.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/User.php on line 36
+[04-Dec-2022 20:46:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Country.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Country.php on line 10
+[04-Dec-2022 20:46:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/nextecki/public_html/metaciti/app/Models/User.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/User.php on line 36
+[04-Dec-2022 20:46:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php on line 8
+[04-Dec-2022 20:46:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/LinkedSocialAccount.php on line 8
+[04-Dec-2022 20:46:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/nextecki/public_html/metaciti/app/Models/User.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/User.php on line 36
+[04-Dec-2022 20:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Country.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Country.php on line 10
+[04-Dec-2022 20:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/State.php on line 10
+[04-Dec-2022 20:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/State.php on line 10
+[04-Dec-2022 20:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/State.php on line 10
+[04-Dec-2022 20:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/State.php on line 10
+[04-Dec-2022 20:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/State.php on line 10
+[04-Dec-2022 20:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/State.php on line 10
+[04-Dec-2022 20:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/State.php on line 10
+[04-Dec-2022 20:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/State.php on line 10
+[04-Dec-2022 20:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/MobileOtp.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/MobileOtp.php on line 8
+[04-Dec-2022 20:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/MobileOtp.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/MobileOtp.php on line 8
+[04-Dec-2022 20:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/MobileOtp.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/MobileOtp.php on line 8
+[04-Dec-2022 20:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Customer.php on line 7
+[04-Dec-2022 20:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Customer.php on line 7
+[04-Dec-2022 20:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Customer.php on line 7
+[04-Dec-2022 20:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Customer.php on line 7
+[04-Dec-2022 20:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/MobileOtp.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/MobileOtp.php on line 8
+[04-Dec-2022 20:46:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Customer.php on line 7
+[04-Dec-2022 20:46:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Customer.php on line 7
+[04-Dec-2022 20:46:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Customer.php on line 7
+[04-Dec-2022 20:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Setting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Setting.php on line 8
+[04-Dec-2022 20:47:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/Setting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/Setting.php on line 8
+[04-Dec-2022 20:47:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/TimeZone.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/TimeZone.php on line 10
+[04-Dec-2022 20:47:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/TimeZone.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/TimeZone.php on line 10
+[04-Dec-2022 20:47:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/TimeZone.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/TimeZone.php on line 10
+[04-Dec-2022 20:47:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nextecki/public_html/metaciti/app/Models/TimeZone.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nextecki/public_html/metaciti/app/Models/TimeZone.php on line 10
